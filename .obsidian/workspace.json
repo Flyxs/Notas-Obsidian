@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "e01e946adac59716",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c904620f90b008e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17081281fcacc08d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Árvore-Binária-de-Busca"
+            }
+          },
+          {
+            "id": "63422548ed7136cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50e5e6546ef9dbe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "39ac41bb14d67dab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c23aa84c7cee5518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "54c8c413313d1e51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "dfe23e5abea446a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "802a6959a213f57e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "337193ee01b01e4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a3dfa7e43d83d5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "364d177587b10eba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estrutura de Dados/EDA2/Arvores/Árvore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Árvore"
+            }
+          },
+          {
+            "id": "dcf34b2bc94b5b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estrutura de Dados/EDA2/Arvores/Árvore.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Árvore"
+            }
+          },
+          {
+            "id": "aa9e06f3b61b0b1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "d7a88602c048f988",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "09a812fc09448da2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-04-22 - EDA2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 2026-04-22 - EDA2"
+            }
+          },
+          {
+            "id": "3adb71c4f9fc3ea3",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "2026-04-22 - EDA2.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          },
+          {
+            "id": "de404306d251f1ed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "63422548ed7136cd",
+  "lastOpenFiles": [
+    "Estrutura de Dados/2026-04-22 - EDA2.md",
+    "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista.md",
+    "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca.md",
+    "Estrutura de Dados/EDA2/Arvores/Árvore-Binária.md",
+    "Estrutura de Dados/2026-04-29 - EDA2.md",
+    "eda 2.canvas",
+    "Matemática Discreta/2026-04-23 - MD2.md",
+    "Matemática Discreta/MD2/Prova 1/Conjuntos Numéricos.md",
+    "Matemática Discreta/MD2/Prova 1/Algoritmo de Euclides e Diophantus.md",
+    "Estrutura de Dados/EDA2/Arvores/Árvore.md",
+    "Estrutura de Dados/EDA2/EDA2.md",
+    "Estrutura de Dados/EDA1/Lista-Encadeada/Lista-Encadeada.md",
+    "Estrutura de Dados/EDA1/Fila-e-Pilha/Pilha.md",
+    "Estrutura de Dados/EDA1/Fila-e-Pilha/Fila.md",
+    "Estrutura de Dados/EDA1/Fila-e-Pilha/Fila-e-Pilha.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Selection-Sort.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Quick-Sort.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Merge-Sort.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Insertion-Sort.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Algoritmos-de-Ordenação.md",
+    "Pasted image 20260411102135.png",
+    "Pasted image 20260412194052.png",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Busca/Busca-Linear.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Busca/Busca-Binária.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Busca/Algoritmos-de-Busca.md",
+    "Estrutura de Dados/EDA1/EDA1.md",
+    "Matemática Discreta/MD2/Prova 1/Divisibilidade e Primos.md",
+    "Matemática Discreta/MD2/Prova 1/Indução Matemática.md",
+    "Matemática Discreta/MD2/Prova 1",
+    "Matemática Discreta/MD2",
+    "Matemática Discreta",
+    "Fundamentos da Arquitetura de Computadores/TED-PED",
+    "Pasted image 20260407134610.png",
+    "Pasted image 20260407134836.png",
+    "Pasted image 20260407134735.png",
+    "Fundamentos da Arquitetura de Computadores",
+    "Estrutura de Dados/EDA2/Arvores",
+    "Estrutura de Dados/EDA1/Lista-Encadeada",
+    "Estrutura de Dados/EDA1/Fila-e-Pilha",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Busca"
+  ]
+}
