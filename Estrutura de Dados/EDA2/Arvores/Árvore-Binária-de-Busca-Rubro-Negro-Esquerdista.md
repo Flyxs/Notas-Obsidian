@@ -1,5 +1,5 @@
 Pertence a: [[Árvore]]
-Tags: #eda2 #conteudo 
+Tags: #eda2 #conteudo #p1 
 
 ---
 # Árvore Binária de Busca Rubro Negro Esquerdista

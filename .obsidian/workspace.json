@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista.md",
-                "mode": "source",
+                "file": "Estrutura de Dados/EDA2/HEAP/HEAP.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista"
+              "title": "HEAP"
             }
           }
         ],
@@ -153,7 +153,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-04-22 - EDA2.md",
+                "file": "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2026-04-22 - EDA2"
+              "title": "Sumário de Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista"
             }
           },
           {
@@ -196,7 +196,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "2026-04-22 - EDA2.md"
+                "file": "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista.md"
               },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
@@ -234,35 +234,37 @@
   },
   "active": "63422548ed7136cd",
   "lastOpenFiles": [
-    "Fundamentos da Arquitetura de Computadores/TED-PED/TED e PED.md",
     "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista.md",
-    "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca.md",
-    "Estrutura de Dados/2026-04-22 - EDA2.md",
+    "Estrutura de Dados/EDA2/HEAP/HEAP.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Quick-Sort.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Selection-Sort.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Insertion-Sort.md",
+    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Merge-Sort.md",
     "Estrutura de Dados/EDA2/Arvores/Árvore-Binária.md",
+    "Estrutura de Dados/EDA2/Arvores/Árvore-Binária-de-Busca.md",
+    "Estrutura de Dados/EDA2/HASH/HASH.md",
+    "Estrutura de Dados/2026-04-22 - EDA2.md",
     "Estrutura de Dados/2026-04-29 - EDA2.md",
+    "Estrutura de Dados/EDA2/HASH",
+    "Estrutura de Dados/EDA2/HEAP/HEAP.c",
+    "Estrutura de Dados/EDA2/HEAP",
+    "Estrutura de Dados/2026-05-06 - EDA2.md",
+    "Estrutura de Dados/EDA1/EDA1.md",
+    "Estrutura de Dados/EDA2/EDA2.md",
+    "Estrutura de Dados/EDA2/Arvores/Árvore.md",
+    "Fundamentos da Arquitetura de Computadores/TED-PED/TED e PED.md",
     "eda 2.canvas",
     "Matemática Discreta/2026-04-23 - MD2.md",
     "Matemática Discreta/MD2/Prova 1/Conjuntos Numéricos.md",
     "Matemática Discreta/MD2/Prova 1/Algoritmo de Euclides e Diophantus.md",
-    "Estrutura de Dados/EDA2/Arvores/Árvore.md",
-    "Estrutura de Dados/EDA2/EDA2.md",
     "Estrutura de Dados/EDA1/Lista-Encadeada/Lista-Encadeada.md",
     "Estrutura de Dados/EDA1/Fila-e-Pilha/Pilha.md",
     "Estrutura de Dados/EDA1/Fila-e-Pilha/Fila.md",
     "Estrutura de Dados/EDA1/Fila-e-Pilha/Fila-e-Pilha.md",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Selection-Sort.md",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Quick-Sort.md",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Merge-Sort.md",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Insertion-Sort.md",
     "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação/Algoritmos-de-Ordenação.md",
     "Pasted image 20260411102135.png",
     "Pasted image 20260412194052.png",
     "Estrutura de Dados/EDA1/Algoritmos-de-Busca/Busca-Linear.md",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Busca/Busca-Binária.md",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Busca/Algoritmos-de-Busca.md",
-    "Estrutura de Dados/EDA1/EDA1.md",
-    "Matemática Discreta/MD2/Prova 1/Divisibilidade e Primos.md",
-    "Matemática Discreta/MD2/Prova 1/Indução Matemática.md",
     "Matemática Discreta/MD2/Prova 1",
     "Matemática Discreta/MD2",
     "Matemática Discreta",
@@ -272,9 +274,6 @@
     "Pasted image 20260407134735.png",
     "Fundamentos da Arquitetura de Computadores",
     "Estrutura de Dados/EDA2/Arvores",
-    "Estrutura de Dados/EDA1/Lista-Encadeada",
-    "Estrutura de Dados/EDA1/Fila-e-Pilha",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Ordenação",
-    "Estrutura de Dados/EDA1/Algoritmos-de-Busca"
+    "Estrutura de Dados/EDA1/Lista-Encadeada"
   ]
 }

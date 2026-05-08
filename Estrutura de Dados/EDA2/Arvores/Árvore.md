@@ -1,5 +1,5 @@
 Pertence a: [[EDA2]]
-Tags: #eda2 #hub
+Tags: #eda2 #hub #p1 
 
 ---
 # Árvore
@@ -81,7 +81,8 @@ A *Altura da Árvore* é a altura da raiz.
 ## Tipos
 
 - [[Árvore-Binária]]
-- 
+- [[Árvore-Binária-de-Busca]]
+- [[Árvore-Binária-de-Busca-Rubro-Negro-Esquerdista]]
 ## Relacionado
 
 assunto assunto assunto assunto 
