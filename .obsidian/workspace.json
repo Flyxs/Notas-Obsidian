@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estrutura de Dados/EDA2/Grafos/Grafos.md",
+                "file": "Estrutura de Dados/EDA2/Grafos/BFS e DFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grafos"
+              "title": "BFS e DFS"
             }
           },
           {
@@ -276,9 +276,13 @@
   },
   "active": "14dd0c6cbf90d56c",
   "lastOpenFiles": [
+    "Estrutura de Dados/EDA2/Grafos/implementacao/grafo",
+    "Estrutura de Dados/EDA2/Grafos/implementacao/Makefile",
+    "Estrutura de Dados/EDA2/Grafos/implementacao/bfs-dfs.h",
+    "Estrutura de Dados/EDA2/Grafos/Grafos.md",
+    "Estrutura de Dados/EDA2/Grafos/Grafos Eulerianos e Hamiltonianos.md",
     "Estrutura de Dados/EDA2/Grafos/BFS e DFS.md",
     "Pasted image 20260609165038.png",
-    "Estrutura de Dados/EDA2/Grafos/Grafos.md",
     "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio5",
     "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio5.c",
     "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio4.c",
@@ -287,9 +291,6 @@
     "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio2",
     "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio2.c",
     "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio1",
-    "Estrutura de Dados/EDA2/Grafos/Grafos Eulerianos e Hamiltonianos.md",
-    "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio 1.c",
-    "Estrutura de Dados/EDA2/Grafos/Exercicios - Aprender/Exercícios de Implementação - parte 1/Exercicio 1",
     "Estrutura de Dados/EDA2/Arvores/Árvore-Binária.md",
     "Estrutura de Dados/EDA2/Arvores/Árvore.md",
     "Estrutura de Dados/EDA2/EDA2.md",
